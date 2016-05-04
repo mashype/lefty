@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  company: MyString
+  website: MyString
+  active_date: 2016-05-03
+  active: false
+
+two:
+  company: MyString
+  website: MyString
+  active_date: 2016-05-03
+  active: false
